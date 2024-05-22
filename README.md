@@ -1,8 +1,8 @@
 <a href="https://imgur.com/84MzfuJ"><img src="https://i.imgur.com//84MzfuJ.png" title="source: imgur.com" /></a>
-# Burp-Suite 
+# Burp-Suite by PortSwigger
 
-# Web application security testing using Burp Suite proxy interceptor
-In this project, we'll explore how Burp Suite's Proxy Interceptor empowers us to test the security of an e-commerce website.
+# Web application security testing using Burp Suite proxy intercept
+In this project, we'll explore how Burp Suite's Proxy Intercept empowers us to test the security of an e-commerce website.
 - Capture website traffic using Burp Suite as a proxy.
 - Analyze intercepted requests and responses for vulnerabilities like:
 - Modify captured requests to test the application's behavior under unexpected conditions.
@@ -55,5 +55,8 @@ For this lab, we'll need to set two things: the proxy and a Certificate Authorit
 
 - Burp Suite > Proxy > Intercept > Forward
 - We go back to webpage and view our shopping cart
+- As we can see total balance for check out is modified
 
-   <a href="https://imgur.com/YWgYOq1"><img src="https://i.imgur.com//YWgYOq1.png" title="source: imgur.com" /></a> 
+   <a href="https://imgur.com/YWgYOq1"><img src="https://i.imgur.com//YWgYOq1.png" title="source: imgur.com" /></a>
+
+Burp Suite has more security testing capabilities, which we will explore and add to this project soon.
